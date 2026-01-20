@@ -1,4 +1,4 @@
-# Analytics-Unstructured-Data_Predicting-Emerging-Food-Trends
+# Predicting Emerging Food Trend Yelp Reviews Sentiment Topic Anaysis
 
 ## Goal: Identifying emerging culinary trends using Yelp data review.
 
